@@ -1,0 +1,54 @@
+.btn-form {
+    margin: 0 0 4% 0;
+    width: 100%;
+}
+
+.btn-table {
+    margin: 2%;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableActions {
+    width: 14%;
+}
+
+
+.header {
+    background-color: #000;
+    border: solid;
+    border-radius: 15px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.table {
+    background-color: rgb(245, 243, 243);
+    border-radius: 15px;
+}
+
+.todoForm {
+    margin-bottom: 15%;
+}
+
+.input {
+    
+    margin-bottom: 1%;
+}
+
+body {
+    background-color: #DCDCDC;
+}
+
+thead {
+    background-color: #000;
+    color: #fff;    
+}
+
+.icon {
+    padding-right: 10%;
+}
