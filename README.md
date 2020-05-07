@@ -16,3 +16,6 @@ Comando para execução do front-end:
 * npm run dev
 
 Para visualizar a aplicação acesse http://localhost:8080 
+
+
+https://pbs.twimg.com/media/EXaqdJwXgAAn8Bc?format=png&name=small
