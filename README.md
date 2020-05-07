@@ -17,5 +17,6 @@ Comando para execução do front-end:
 
 Para visualizar a aplicação acesse http://localhost:8080 
 
-
-https://pbs.twimg.com/media/EXaqdJwXgAAn8Bc?format=png&name=small
+<p align="center">
+  <img src="https://pbs.twimg.com/media/EXaqdJwXgAAn8Bc?format=png&name=small" width="500">
+</p>
