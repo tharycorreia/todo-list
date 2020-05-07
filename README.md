@@ -1,5 +1,5 @@
 # todo-list
-*
+
 Essa aplicação permite adicionar tarefas a serem realizadas, marcar e desmarcá-las como concluídas. 
 Para sua implementação foi utilizado Node no Back-end. Já no Front, foi utilizado JavaScript, ReactJs e Bootstrap. Foi utilizado o MongoDB para a persistência dos dados. 
 
